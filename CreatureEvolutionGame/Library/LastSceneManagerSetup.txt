@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Sondre.unity
+=======
+- path: Assets/Scenes/Simen/STest1.unity
+>>>>>>> d7529fb5c65ea365ce9e379bc0d02475325cda2f
   isLoaded: 1
   isActive: 1
